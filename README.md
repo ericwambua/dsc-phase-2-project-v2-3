@@ -1,5 +1,5 @@
 # King County House Pricing Project 
-![image](https://github.com/ericwambua/dsc-phase-2-project-v2-3/assets/133090475/3ef6e9c1-e5c2-4565-89c5-890e18244b7f)
+![image (1)](https://github.com/ericwambua/dsc-phase-2-project-v2-3/assets/133090475/33cf5ce0-532d-4538-a209-584aa5e0fb10)
 ## Project Overview
 
 This project focuses on providing data-driven insights to real estate firms operating in King County. Leveraging a comprehensive dataset containing various housing-related features and house prices, the goal is to gain a deep understanding of the factors influencing house prices in the county. This information will enable real estate professionals to make informed decisions, enhance their property valuation processes, and optimize their market strategies.
